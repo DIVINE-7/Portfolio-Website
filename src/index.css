@@ -470,3 +470,18 @@ section {
 .card:hover::before {
     opacity: 1;
 }
+* {
+    cursor: url('/images/gradient-cursor.png') 8 4, auto;
+}
+/* ===== Mobile Performance ===== */
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+
+html {
+    -webkit-overflow-scrolling: touch;
+}
+
+img {
+    will-change: auto;
+}
