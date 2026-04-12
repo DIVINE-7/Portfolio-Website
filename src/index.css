@@ -471,7 +471,7 @@ section {
     opacity: 1;
 }
 * {
-    cursor: url('/images/gradient-cursor.png') 8 4, auto;
+    cursor: url('/images/cursor.png') 8 4, auto;
 }
 /* ===== Mobile Performance ===== */
 * {
