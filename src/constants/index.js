@@ -248,6 +248,7 @@ const socialImgs = [
     {
         name: "insta",
         imgPath: "/images/insta.png",
+        link: "https://www.instagram.com/_ankitkumar.07/",
     },
     {
         name: "fb",
@@ -260,6 +261,7 @@ const socialImgs = [
     {
         name: "linkedin",
         imgPath: "/images/linkedin.png",
+        link: "https://www.linkedin.com/in/ankit-kumar-mohanty-b63ba2339/"
     },
 ];
 
